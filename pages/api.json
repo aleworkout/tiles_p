@@ -1,0 +1,432 @@
+[
+    {
+        "id": 71027116,
+        "token_id": "100",
+        "num_sales": 1,
+        "background_color": null,
+        "image_url": "https://lh3.googleusercontent.com/wU_b5hoxi9ZZfeO1SkW8HWAejyEWTb90OL3VAG6WxIH3olrRtsFV07VdcBrGGQIUrljudb6Qtsw2urGqKQULkTbVueSkhFIOpFE4BRo",
+        "image_preview_url": "https://lh3.googleusercontent.com/wU_b5hoxi9ZZfeO1SkW8HWAejyEWTb90OL3VAG6WxIH3olrRtsFV07VdcBrGGQIUrljudb6Qtsw2urGqKQULkTbVueSkhFIOpFE4BRo=s250",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/wU_b5hoxi9ZZfeO1SkW8HWAejyEWTb90OL3VAG6WxIH3olrRtsFV07VdcBrGGQIUrljudb6Qtsw2urGqKQULkTbVueSkhFIOpFE4BRo=s128",
+        "image_original_url": "https://alethea.ai/media/character_images/Cleopatra.jpg",
+        "animation_url": "https://storage.opensea.io/files/daf8d392306a250aac967935bcab4b44.mp4",
+        "animation_original_url": "https://alethea.ai/media/waiting_video/Cleopatra.mp4",
+        "name": "Cleopatra: Revenant #100",
+        "description": "For many years, Cleopatra was the co-regent of Egypt. She is also known for her romantic relationships with important figures like Marc Antony and Julius Caesar. She wasn’t afraid to use romance to her political benefit, and she was a cunning leader. Cleopatra used all of her skills to improve Egypt and earn power for the empire.",
+        "external_link": "https://alethea.ai",
+        "asset_contract": {
+            "address": "0xc2d6b32e533e7a8da404abb13790a5a2f606ad75",
+            "asset_contract_type": "non-fungible",
+            "created_date": "2021-10-12T19:25:42.263568",
+            "name": "Revenants by Alethea AI",
+            "nft_version": "3.0",
+            "opensea_version": null,
+            "owner": 92620665,
+            "schema_name": "ERC721",
+            "symbol": "REV",
+            "total_supply": "0",
+            "description": "The Revenants are the world's first Intelligent Collectibles.\r\n\r\nOne hundred intelligent NFTs (iNFTs), depicting historical and cultural icons, reborn. From Nikola Tesla to Napoleon to Cleopatra, the world’s greatest minds are now brought to life as Intelligent NFTs. iNFTs are a powerful new medium that not only seek to advance the utilities of NFTs but also unlock new economic, creative, and social possibilities. The Revenants are the first iNFTs on Noah’s Ark, an Intelligent Metaverse created by Alethea AI.\r\n\r\nTOS: https://alethea.ai/revenants",
+            "external_link": "https://alethea.ai/",
+            "image_url": "https://lh3.googleusercontent.com/0LsJSNxzhiXQ-8TqwrMEJZuLgQnDTEweihqp32L_dXpkywpCIK4o8Fgs9JZDduK1Oj5Ek_xlBqd5lMIJoxSnWRi-GaknxnHINmy2H7Y=s120",
+            "default_to_fiat": false,
+            "dev_buyer_fee_basis_points": 0,
+            "dev_seller_fee_basis_points": 750,
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": 0,
+            "opensea_seller_fee_basis_points": 250,
+            "buyer_fee_basis_points": 0,
+            "seller_fee_basis_points": 1000,
+            "payout_address": "0x0738f702d1a7364d356729cb8845701885c487a1"
+        },
+        "permalink": "https://opensea.io/assets/0xc2d6b32e533e7a8da404abb13790a5a2f606ad75/100",
+        "collection": {
+            "banner_image_url": "https://lh3.googleusercontent.com/J74rBgSDQI0bKibliYKGoX7nTYgeRPMIPVxYilUTBOj8aaShSmFRHPYmk-UfbtCG4s49HCpxx5UPWW3w7YPwpWkDJDhYo0uh_T65=s2500",
+            "chat_url": null,
+            "created_date": "2021-10-12T20:18:45.535521",
+            "default_to_fiat": false,
+            "description": "The Revenants are the world's first Intelligent Collectibles.\r\n\r\nOne hundred intelligent NFTs (iNFTs), depicting historical and cultural icons, reborn. From Nikola Tesla to Napoleon to Cleopatra, the world’s greatest minds are now brought to life as Intelligent NFTs. iNFTs are a powerful new medium that not only seek to advance the utilities of NFTs but also unlock new economic, creative, and social possibilities. The Revenants are the first iNFTs on Noah’s Ark, an Intelligent Metaverse created by Alethea AI.\r\n\r\nTOS: https://alethea.ai/revenants",
+            "dev_buyer_fee_basis_points": "0",
+            "dev_seller_fee_basis_points": "750",
+            "discord_url": "https://discord.gg/aletheaai",
+            "display_data": {
+                "card_display_style": "cover"
+            },
+            "external_url": "https://alethea.ai/",
+            "featured": false,
+            "featured_image_url": "https://lh3.googleusercontent.com/kblpDV-4HBZNwbLyzAfl0lbotAjBLy1hRLpnbI9ijDGpVFA-adAcVXvD1jPLVkdVmZS97ZegA3nqEMnZ83b7RmoCsl21iSIvTiwM8Q=s300",
+            "hidden": false,
+            "safelist_request_status": "verified",
+            "image_url": "https://lh3.googleusercontent.com/0LsJSNxzhiXQ-8TqwrMEJZuLgQnDTEweihqp32L_dXpkywpCIK4o8Fgs9JZDduK1Oj5Ek_xlBqd5lMIJoxSnWRi-GaknxnHINmy2H7Y=s120",
+            "is_subject_to_whitelist": false,
+            "large_image_url": "https://lh3.googleusercontent.com/kblpDV-4HBZNwbLyzAfl0lbotAjBLy1hRLpnbI9ijDGpVFA-adAcVXvD1jPLVkdVmZS97ZegA3nqEMnZ83b7RmoCsl21iSIvTiwM8Q=s300",
+            "medium_username": "arikhan",
+            "name": "Revenants by Alethea AI",
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": "0",
+            "opensea_seller_fee_basis_points": "250",
+            "payout_address": "0x0738f702d1a7364d356729cb8845701885c487a1",
+            "require_email": false,
+            "short_description": null,
+            "slug": "revenants-by-alethea-ai",
+            "telegram_url": "https://t.me/alethea_ai",
+            "twitter_username": "real_alethea",
+            "instagram_username": null,
+            "wiki_url": null
+        },
+        "decimals": 0,
+        "token_metadata": "https://metadata.alethea.ai/collections/revenants/100",
+        "owner": {
+            "user": {
+                "username": null
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+            "address": "0x31da5a5f0d1e31ae8e51d201a7ed30ec98583f1b",
+            "config": ""
+        },
+        "sell_orders": null,
+        "creator": {
+            "user": {
+                "username": "Alethea_AI"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+            "address": "0x0738f702d1a7364d356729cb8845701885c487a1",
+            "config": "verified"
+        },
+        "traits": [
+            {
+                "trait_type": "Cleopatra - Eyes",
+                "value": "Black",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Hair",
+                "value": "Black",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Tunic",
+                "value": "White",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Jewelrey",
+                "value": "Golden",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Lips",
+                "value": "Orange",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Brows",
+                "value": "Black",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Cleopatra - Crown",
+                "value": "Golden",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            }
+        ],
+        "last_sale": {
+            "asset": {
+                "token_id": "100",
+                "decimals": 0
+            },
+            "asset_bundle": null,
+            "event_type": "successful",
+            "event_timestamp": "2021-10-19T22:31:24",
+            "auction_type": null,
+            "total_price": "50000000000000000000",
+            "payment_token": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "3993.829999999999927000"
+            },
+            "transaction": {
+                "block_hash": "0x23b48d0ec0eb3d7da2d73c2eed0fb874e267cf87a5a4e0f9e143debfe6dc4413",
+                "block_number": "13450895",
+                "from_account": {
+                    "user": {
+                        "username": "OpenSea-Rewards"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+                    "address": "0x9b814233894cd227f561b78cc65891aa55c62ad2",
+                    "config": "verified"
+                },
+                "id": 184466488,
+                "timestamp": "2021-10-19T22:31:24",
+                "to_account": {
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified"
+                },
+                "transaction_hash": "0x7731f5dd6da800acf246985d1cc632729a62c27d367c74f77004e5ad1893f3a9",
+                "transaction_index": "216"
+            },
+            "created_date": "2021-10-19T22:31:49.264502",
+            "quantity": "1"
+        },
+        "top_bid": null,
+        "listing_date": null,
+        "is_presale": false,
+        "transfer_fee_payment_token": null,
+        "transfer_fee": null
+    },
+    {
+        "id": 71027109,
+        "token_id": "99",
+        "num_sales": 1,
+        "background_color": null,
+        "image_url": "https://lh3.googleusercontent.com/28wRd6f_Ga6Hz-QZZ6CDGDPqDdXWrnfmeMqkdypNcsQz3zEq2FL5EZ66hvSbX-LfDPNtBxnOO4wLZvBTvIShNMunv_7jqeyf3agVIA",
+        "image_preview_url": "https://lh3.googleusercontent.com/28wRd6f_Ga6Hz-QZZ6CDGDPqDdXWrnfmeMqkdypNcsQz3zEq2FL5EZ66hvSbX-LfDPNtBxnOO4wLZvBTvIShNMunv_7jqeyf3agVIA=s250",
+        "image_thumbnail_url": "https://lh3.googleusercontent.com/28wRd6f_Ga6Hz-QZZ6CDGDPqDdXWrnfmeMqkdypNcsQz3zEq2FL5EZ66hvSbX-LfDPNtBxnOO4wLZvBTvIShNMunv_7jqeyf3agVIA=s128",
+        "image_original_url": "https://alethea.ai/media/character_images/Mansa_Musa.jpg",
+        "animation_url": "https://storage.opensea.io/files/6259f119edbb467f19ce181800905d21.mp4",
+        "animation_original_url": "https://alethea.ai/media/waiting_video/Mansa_Musa.mp4",
+        "name": "Mansa Musa: Revenant #99",
+        "description": "As one of the richest people of his time, Mansa Musa was a powerful ruler of the Mali Empire. Mansa Musa was a determined leader, and he had revolutionary ideas that he was sure would make his kingdom better. He believed in creating cultural development and educating his people, and such endeavors were what motivated him.",
+        "external_link": "https://alethea.ai",
+        "asset_contract": {
+            "address": "0xc2d6b32e533e7a8da404abb13790a5a2f606ad75",
+            "asset_contract_type": "non-fungible",
+            "created_date": "2021-10-12T19:25:42.263568",
+            "name": "Revenants by Alethea AI",
+            "nft_version": "3.0",
+            "opensea_version": null,
+            "owner": 92620665,
+            "schema_name": "ERC721",
+            "symbol": "REV",
+            "total_supply": "0",
+            "description": "The Revenants are the world's first Intelligent Collectibles.\r\n\r\nOne hundred intelligent NFTs (iNFTs), depicting historical and cultural icons, reborn. From Nikola Tesla to Napoleon to Cleopatra, the world’s greatest minds are now brought to life as Intelligent NFTs. iNFTs are a powerful new medium that not only seek to advance the utilities of NFTs but also unlock new economic, creative, and social possibilities. The Revenants are the first iNFTs on Noah’s Ark, an Intelligent Metaverse created by Alethea AI.\r\n\r\nTOS: https://alethea.ai/revenants",
+            "external_link": "https://alethea.ai/",
+            "image_url": "https://lh3.googleusercontent.com/0LsJSNxzhiXQ-8TqwrMEJZuLgQnDTEweihqp32L_dXpkywpCIK4o8Fgs9JZDduK1Oj5Ek_xlBqd5lMIJoxSnWRi-GaknxnHINmy2H7Y=s120",
+            "default_to_fiat": false,
+            "dev_buyer_fee_basis_points": 0,
+            "dev_seller_fee_basis_points": 750,
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": 0,
+            "opensea_seller_fee_basis_points": 250,
+            "buyer_fee_basis_points": 0,
+            "seller_fee_basis_points": 1000,
+            "payout_address": "0x0738f702d1a7364d356729cb8845701885c487a1"
+        },
+        "permalink": "https://opensea.io/assets/0xc2d6b32e533e7a8da404abb13790a5a2f606ad75/99",
+        "collection": {
+            "banner_image_url": "https://lh3.googleusercontent.com/J74rBgSDQI0bKibliYKGoX7nTYgeRPMIPVxYilUTBOj8aaShSmFRHPYmk-UfbtCG4s49HCpxx5UPWW3w7YPwpWkDJDhYo0uh_T65=s2500",
+            "chat_url": null,
+            "created_date": "2021-10-12T20:18:45.535521",
+            "default_to_fiat": false,
+            "description": "The Revenants are the world's first Intelligent Collectibles.\r\n\r\nOne hundred intelligent NFTs (iNFTs), depicting historical and cultural icons, reborn. From Nikola Tesla to Napoleon to Cleopatra, the world’s greatest minds are now brought to life as Intelligent NFTs. iNFTs are a powerful new medium that not only seek to advance the utilities of NFTs but also unlock new economic, creative, and social possibilities. The Revenants are the first iNFTs on Noah’s Ark, an Intelligent Metaverse created by Alethea AI.\r\n\r\nTOS: https://alethea.ai/revenants",
+            "dev_buyer_fee_basis_points": "0",
+            "dev_seller_fee_basis_points": "750",
+            "discord_url": "https://discord.gg/aletheaai",
+            "display_data": {
+                "card_display_style": "cover"
+            },
+            "external_url": "https://alethea.ai/",
+            "featured": false,
+            "featured_image_url": "https://lh3.googleusercontent.com/kblpDV-4HBZNwbLyzAfl0lbotAjBLy1hRLpnbI9ijDGpVFA-adAcVXvD1jPLVkdVmZS97ZegA3nqEMnZ83b7RmoCsl21iSIvTiwM8Q=s300",
+            "hidden": false,
+            "safelist_request_status": "verified",
+            "image_url": "https://lh3.googleusercontent.com/0LsJSNxzhiXQ-8TqwrMEJZuLgQnDTEweihqp32L_dXpkywpCIK4o8Fgs9JZDduK1Oj5Ek_xlBqd5lMIJoxSnWRi-GaknxnHINmy2H7Y=s120",
+            "is_subject_to_whitelist": false,
+            "large_image_url": "https://lh3.googleusercontent.com/kblpDV-4HBZNwbLyzAfl0lbotAjBLy1hRLpnbI9ijDGpVFA-adAcVXvD1jPLVkdVmZS97ZegA3nqEMnZ83b7RmoCsl21iSIvTiwM8Q=s300",
+            "medium_username": "arikhan",
+            "name": "Revenants by Alethea AI",
+            "only_proxied_transfers": false,
+            "opensea_buyer_fee_basis_points": "0",
+            "opensea_seller_fee_basis_points": "250",
+            "payout_address": "0x0738f702d1a7364d356729cb8845701885c487a1",
+            "require_email": false,
+            "short_description": null,
+            "slug": "revenants-by-alethea-ai",
+            "telegram_url": "https://t.me/alethea_ai",
+            "twitter_username": "real_alethea",
+            "instagram_username": null,
+            "wiki_url": null
+        },
+        "decimals": 0,
+        "token_metadata": "https://metadata.alethea.ai/collections/revenants/99",
+        "owner": {
+            "user": {
+                "username": null
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+            "address": "0x31da5a5f0d1e31ae8e51d201a7ed30ec98583f1b",
+            "config": ""
+        },
+        "sell_orders": null,
+        "creator": {
+            "user": {
+                "username": "Alethea_AI"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/14.png",
+            "address": "0x0738f702d1a7364d356729cb8845701885c487a1",
+            "config": "verified"
+        },
+        "traits": [
+            {
+                "trait_type": "Musa - Eyes",
+                "value": "Brown",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Hair",
+                "value": "Brown",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Brows",
+                "value": "Brown",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Shirt",
+                "value": "Gold",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Lips",
+                "value": "Light Brown",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Sash",
+                "value": "Orange",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Beard",
+                "value": "Black",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Mustache",
+                "value": "Black",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Turban",
+                "value": "White",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            },
+            {
+                "trait_type": "Musa - Necklace",
+                "value": "Gold",
+                "display_type": null,
+                "max_value": null,
+                "trait_count": 1,
+                "order": null
+            }
+        ],
+        "last_sale": {
+            "asset": {
+                "token_id": "99",
+                "decimals": 0
+            },
+            "asset_bundle": null,
+            "event_type": "successful",
+            "event_timestamp": "2021-10-19T22:06:00",
+            "auction_type": null,
+            "total_price": "22000000000000000000",
+            "payment_token": {
+                "id": 2,
+                "symbol": "WETH",
+                "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                "name": "Wrapped Ether",
+                "decimals": 18,
+                "eth_price": "1.000000000000000",
+                "usd_price": "3993.829999999999927000"
+            },
+            "transaction": {
+                "block_hash": "0x97df7977a939dbbb82a8973122356eb6c87c8177bf2d99cd81f2051e8b175caa",
+                "block_number": "13450766",
+                "from_account": {
+                    "user": {
+                        "username": "OpenSea-Rewards"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+                    "address": "0x9b814233894cd227f561b78cc65891aa55c62ad2",
+                    "config": "verified"
+                },
+                "id": 184441520,
+                "timestamp": "2021-10-19T22:06:00",
+                "to_account": {
+                    "user": {
+                        "username": "OpenSea-Orders"
+                    },
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                    "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                    "config": "verified"
+                },
+                "transaction_hash": "0x2706b4c5dcbdcaf783045c779349498f0fcc339998436ac7ea6e012fa9ee56d0",
+                "transaction_index": "67"
+            },
+            "created_date": "2021-10-19T22:13:57.121521",
+            "quantity": "1"
+        },
+        "top_bid": null,
+        "listing_date": null,
+        "is_presale": false,
+        "transfer_fee_payment_token": null,
+        "transfer_fee": null
+    }
+]
